@@ -4,3 +4,9 @@ google-genai>=1.0
 chromadb>=0.5
 python-dotenv>=1.0
 pypdf>=5.0
+
+# Modul 2 (TF-IDF)
+scikit-learn
+
+# Pengujian
+pytest
